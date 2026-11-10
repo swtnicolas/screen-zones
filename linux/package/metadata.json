@@ -1,0 +1,13 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Description": "Divide cada pantalla en zonas fijas con pestañas que se comportan como monitores independientes",
+        "EnabledByDefault": false,
+        "Icon": "local.screenzones",
+        "Id": "local.screenzones",
+        "Name": "ScreenZones",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API": "declarativescript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
